@@ -1,0 +1,10 @@
+Q.20 What is the difference between && and || in JavaScript?
+--> In JavaScript:
+    && is the logical AND operator. It returns true if both operands are true; otherwise, it returns false.
+    || is the logical OR operator. It returns true if at least one of the operands is true; otherwise, it returns false.
+    In JavaScript, the && operator is not typically used for defining ranges. It's primarily used as a logical operator to combine multiple conditions in conditional    statements or expressions. For defining ranges in JavaScript, you would typically use comparison operators such as <, <=, >, >=, or logical operators in combination   with those. For example:
+
+ let x = 10;
+ if (x >= 0 && x <= 100) {
+     console.log("x is within the range of 0 to 100");
+ }

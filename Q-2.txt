@@ -1,0 +1,5 @@
+Q.2 How many type of Variable in JavaScript? 
+--> in javascript main three type of variable
+            var: Originally the only way to declare variables,it can be redeclared as well as reassigned and is a global scope.
+            let: Introduces block scope to variables,it cannot be redeclared but can reassigned.
+            const: Declares variables with constant values that cannot be reassigned and redeclared after initialization.It's unique.

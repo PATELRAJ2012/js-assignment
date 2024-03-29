@@ -1,0 +1,6 @@
+Q.10 What is Condition Statement?
+--> A conditional statement, also known as a conditional expression or simply a condition, is a programming construct that allows 
+    you to execute different blocks of code based on whether a specified condition evaluates to true or false.
+    1. if statement
+    2. if else statement
+    3. swich statement

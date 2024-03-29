@@ -1,0 +1,4 @@
+Q.1 What is JavaScript. 
+--> Javascript is the Programming language for the web.JavaScript can update and change both HTML and CSS. JavaScript can calculate ,manipulate and validate data.
+    to use javascript in two type 1. inline javascript
+                                  2. External javascript

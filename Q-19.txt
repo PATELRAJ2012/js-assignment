@@ -1,0 +1,4 @@
+Q.19 What is the use of is Nan function? 
+--> In JavaScript NaN is short for "Not-a-Number". 
+    The isNaN() method returns true if a value is NaN. 
+    The isNaN() method converts the value to a number before testing it.
